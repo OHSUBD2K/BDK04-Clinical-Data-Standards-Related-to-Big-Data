@@ -3,7 +3,6 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 03/30/2016
 
 ## Module Number: BDK04
 
@@ -31,7 +30,7 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK04-1.pptx
 
-Unit 1 Audio: BDK04-1.mp3
+Unit 1 Audio: BDK04-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK04-1_resources.pdf
 
@@ -39,7 +38,7 @@ Unit 1 Resources: BDK04-1_resources.pdf
 
 Unit 2 Slides: BDK04-2.pptx
 
-Unit 2 Audio: BDK04-2.mp3
+Unit 2 Audio: BDK04-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK04-2_resources.pdf
 
@@ -47,7 +46,7 @@ Unit 2 Resources: BDK04-2_resources.pdf
 
 Unit 3 Slides: BDK04-3.pptx
 
-Unit 3 Audio: BDK04-3.mp3
+Unit 3 Audio: BDK04-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK04-3_resources.pdf
 
@@ -55,7 +54,7 @@ Unit 3 Resources: BDK04-3_resources.pdf
 
 Unit 4 Slides: BDK04-4.pptx
 
-Unit 4 Audio: BDK04-4.mp3
+Unit 4 Audio: BDK04-4.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 4 Resources: BDK04-4_resources.pdf
 
